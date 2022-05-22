@@ -30,7 +30,7 @@ h3, h4, h5, h6 {line-height:1.5 !important}
 }
 
 .lead h2 {
-    font-size:33px;line-height:45px;color:#B85305;font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size:33px;line-height:45px;color:#1e347b;font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 }
 
 .lead h3 {
@@ -41,7 +41,7 @@ h3, h4, h5, h6 {line-height:1.5 !important}
     font-size:inherit !important;
 }
 
-.row-fluid h3 {color:#B85305;}
+.row-fluid h3 {color:#1e347b;}
 
 /* Contact */
 
